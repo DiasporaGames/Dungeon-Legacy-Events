@@ -3,6 +3,6 @@ id,name,icon,description,action_a,action_a_offset_adepts,action_a_offset_minions
 2,John The Wet,troll,Our waters in the dungeon aren't polluted enough,Buy more trash,0.0,0.1,0.0,-0.1,Sell the oil you found in his swamp,0.0,-0.1,0.0,0.1
 3,Accidental sacrifice,altar_trog,An adventurer falls on a knife and sacrifices himself to you,Nice!,0.1,0,0,0,Nullify the sacrifice,-0.25,0,0,0
 4,Adventurer LvL 1,donald_new,Die DarkLord!,Kill him,0,0,0,0.05,Kill him but harder,0.1,-0.1,-0.1,0
-53,Mysterious Key,key,You find a key while walking in your dungeon,It's made of gold! Melt it,0,0,0,0.5,Throw it away,0,0,0,0
+53,Mysterious Key,key,You find a key while walking in your dungeon,It's made of gold! Melt it,0,0,0,0.05,Throw it away,0,0,0,0
 74,Boar Vessel,boar_vessel,An interesting boar vessel appeared in the dungeon,Open it,0,0,0,0.3,I prefer pig vessels,0,0,0,0
 
