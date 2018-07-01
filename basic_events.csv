@@ -1,3 +1,4 @@
+id,name,icon,description,action_a,action_a_offset_adepts,action_a_offset_minions,action_a_offset_bosses,action_a_offset_gold,action_b,action_b_offset_adepts,action_b_offset_minions,action_b_offset_bosses,action_b_offset_gold
 1,Rockheads Jorg,two_headed_ogre,Jorg needs more gold to drink!,Give him gold,0.0,0,0.1,-0.1,Kill him,0.0,0.0,-0.1,0.0
 2,John The Wet,troll,Our waters in the dungeon aren't polluted enough,Buy more trash,0.0,0.1,0.0,-0.1,Sell the oil you found in his swamp,0.0,-0.1,0.0,0.1
 3,Accidental sacrifice,altar_trog,An adventurer falls on a knife and sacrifices himself to you,Nice!,0.1,0,0,0,Nullify the sacrifice,-0.25,0,0,0
